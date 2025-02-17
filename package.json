@@ -33,7 +33,7 @@
     "@btwiuse/serve": "1.0.2",
     "@types/node": "22.13.0",
     "@types/react": "19.0.8",
-    "@types/react-dom": "19.0.3",
+    "@types/react-dom": "19.0.4",
     "@types/styled-components": "^5.1.26",
     "concurrently": "9.1.2",
     "esbuild": "0.24.2",
